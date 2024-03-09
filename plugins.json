@@ -22,5 +22,23 @@
         "DownloadLinkInstall":  "https://github.com/44451516/ffxiv_bossmod/raw/API9/release/BossMod/latest.zip",
         "DownloadLinkTesting":  "https://github.com/44451516/ffxiv_bossmod/raw/API9/release/BossMod/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/44451516/ffxiv_bossmod/raw/API9/release/BossMod/latest.zip"
-    }
+    }，
+    {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "Description": "根据坐标移动装修物品，解除游戏限制。",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.6.2",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [ "bdth", "housing", "float", "place", "glitch", "furnishing", "LeonBlade" ],
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/1.6.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/1.6.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/1.6.2/latest.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/icon.png",
+    "Changelog": ""
+  }
 ]
