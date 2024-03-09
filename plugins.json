@@ -140,5 +140,25 @@
         "DownloadLinkTesting": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.8/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/XIVAuras/Media/Images/icon.png"
-    }
+    },
+    {
+    "Author": "NightmareXIV",
+    "Name": "Splatoon",
+    "Punchline": "国服画家SPLX 6.5CN 解限特供  ",
+    "Description": "国服画家，6.5CN ",
+    "InternalName": "SplatoonX",
+    "AssemblyVersion": "10.3.4.4",
+    "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://love.puni.sh/resources/splatoon.png",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Errerer/SplatoonX/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Errerer/SplatoonX/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/SplatoonX/releases/download/1.0.0.0/latest.zip",
+    "DownloadCount": 30000,
+    "LastUpdated": "0"
+  }
 ]
