@@ -168,5 +168,53 @@
         "DownloadLinkUpdate": "https://github.com/Errerer/SplatoonX/releases/download/1.0.0.0/latest.zip",
         "DownloadCount": 30000,
         "LastUpdated": "0"
+    },
+    {
+        "Name": "V(ery) Island",
+        "DownloadLinkInstall": "https://github.com/AtmoOmen/DalamudPlugins/releases/download/visland-0.0.0.78/latest.zip",
+        "DownloadLinkTesting": "https://github.com/AtmoOmen/DalamudPlugins/releases/download/visland-0.0.0.78/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/AtmoOmen/DalamudPlugins/releases/download/visland-0.0.0.78/latest.zip",
+        "AssemblyVersion": "0.0.0.78",
+        "DownloadCount": 3898,
+        "InternalName": "visland",
+        "Description": "自动化无人岛采集/工房作业等等\n\n国服适配与汉化: AtmoOmen\n答应我, 别闲鱼买挂了好吗?",
+        "RepoUrl": "https://github.com/AtmoOmen",
+        "Punchline": "自动化无人岛采集作业",
+        "Author": "veyn, AtmoOmen",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true
+    },
+    {
+        "Author": "AtmoOmen",
+        "Name": "Daily Routines",
+        "InternalName": "DailyRoutines",
+        "AssemblyVersion": "0.0.3.0",
+        "Punchline": "帮忙解决一些日常重复性劳动",
+        "Description": "轻量化、低性能消耗、简单的自动化功能/易用性改动合集, 帮你从一些无意义的重复性工作中解放出来\n\n注: 插件免费开源, 仅支持在线安装",
+        "Changelog": "请到插件内 设置 页面查阅最新版本的更新日志",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Daily",
+            "Auto",
+            "日常",
+            "自动"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadCount": 17996,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "RepoUrl": "https://github.com/AtmoOmen/DailyRoutines",
+        "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/DailyRoutines/main/imgs/icon.png",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.0.3.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.0.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.0.3.0/latest.zip"
     }
 ]
